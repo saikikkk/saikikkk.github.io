@@ -39,10 +39,14 @@ body {
 
 img {
 
-    width: 200px;
+    width: 500px;
 
     height: auto;
 
     margin: 10px;
 
+}
+
+.h1 {
+    font-size: 30px;
 }
