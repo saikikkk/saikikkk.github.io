@@ -40,27 +40,6 @@ body {
 
 }
 
-.footer__title {
-    font-size: 30px;
-    font-weight: 700;
-    color: black;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-.footer__left {
-    margin-right: 10px;
-    text-align: left;
-    width: 50%; 
-    padding: 0 250px; 
-
-}
-
-
-.footer__right {
-    margin-right: 10px;
-    width: 50%;
-    padding: 0 200px;
-    text-align: right;
-
+.font {
+  font-size: 25px;
 }
