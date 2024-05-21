@@ -56,10 +56,14 @@
 }
 
 .text-center { 
-    text-align:
+    text-align;
 }
 
 .img {
-    marning-right: 25px
-    
+    marning-right: 25px;
+}
+
+.img-left {
+    float: left;
+    marning-right: 10px;
 }
